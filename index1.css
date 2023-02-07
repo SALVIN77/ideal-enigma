@@ -8,3 +8,6 @@
 .nav-link:hover{
     background: rgb(109, 99, 99);
 }
+*{
+    background-size: cover;
+}
