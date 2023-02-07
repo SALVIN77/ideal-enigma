@@ -1,13 +1,11 @@
 *{
     padding: 0;
     margin: 0;
+    background-size: cover;
 }
 #siz{
     font-family:Showcard Gothic;
 }
 .nav-link:hover{
     background: rgb(109, 99, 99);
-}
-*{
-    background-size: cover;
 }
