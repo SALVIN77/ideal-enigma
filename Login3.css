@@ -1,9 +1,27 @@
 .form-box{
-    width: 45%;
     background-color:lightgray;
-    margin-left: 25%;
 }
+
 .forgot{
-    padding-left: 35%;
     text-decoration: none;
+}
+
+@media screen and (max-width:992px){
+    .form-box{
+        width:100%;
+    }
+    .forgot{
+        margin-left:70px;
+    }
+    
+}
+@media screen and (min-width:992px){
+    .form-box{
+        width: 50%;
+        margin-left: 211px;
+    }
+    .forgot{
+        margin-left: 150px;
+    }
+    
 }
