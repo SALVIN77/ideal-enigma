@@ -9,3 +9,9 @@
 .nav-link:hover{
     background: rgb(109, 99, 99);
 }
+.logoss img{
+    width: 8%;
+    border-radius: 35px;
+    margin-right: 12px;
+    margin-top: 5px;
+}
