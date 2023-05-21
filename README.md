@@ -1,2 +1,2 @@
 # Kerala Tourism
-Visit here https://salvin77.github.io/ideal-enigma/
+Visit link https://salvin77.github.io/ideal-enigma/
